@@ -1,0 +1,11 @@
+body{background-color: #02BFA3;}
+.Back {background-color: white;
+width: 100%;}
+header{display: flex; justify-content: center; align-items: center; padding-top: 30px;}
+.Playlist-header {width: 50%;}
+.Playlist-header:first-child{display: flex; justify-content: flex-start; padding-left: 15px;}
+.Playlist-header:last-child{display: flex; justify-content: center; padding-right: 40%;}
+.bigsqure{background-color: #FFB413;
+width: 100px; height: 100px;
+display: flex; justify-content: center; align-items: center;
+border-radius: 15px; border: 2px black solid; margin-left: 15px;}
