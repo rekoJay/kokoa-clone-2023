@@ -3,3 +3,10 @@ border-top: 1px solid rgba(230, 220, 220, 0.8);
 position: fixed; bottom: 0; width: 100%;
 box-sizing: border-box;}
 .nav__ul{display: flex; justify-content: space-between;}
+.nav__li{position: relative;}
+.nav__notification{
+position: absolute;
+left: 10px;
+bottom: 5px;}
+.reddot{background-color: tomato; width: 5px; height: 5px; border-radius: 50%;
+position: absolute; left: 20px; bottom: 13px;}
